@@ -48,7 +48,10 @@ Image classification is a common computer vision task used in industries like au
 
 ## Architecture Diagram
 
-![Step Functions Workflow](step%20functions%20graph%201.png)
+<p align="center">
+  <img src="step%20functions%20graph%201.png" alt="Step Functions Workflow" width="400"/>
+</p>
+
 
 ---
 
